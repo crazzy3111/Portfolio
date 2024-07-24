@@ -19,7 +19,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://linkedin.com/in/pedro-sales-muniz"
+            href="https://www.linkedin.com/in/ankit-kumar-b23796223/"
             target="_blank"
             rel="noopener noreferrer"
           >
